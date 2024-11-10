@@ -1,6 +1,6 @@
 Shopping Cart
 
-Description
+Description:
 A responsive shopping cart app with real-time product search, dynamic cart management, and a seamless checkout experience using React and Vite.
 
 How to run a project example:
