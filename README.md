@@ -6,9 +6,13 @@ A responsive shopping cart app with real-time product search, dynamic cart manag
 How to run a project example:
 
 Clone the repository: git clone <repository-url>
+
 Navigate to the project folder: cd shopping-cart
+
 Install dependencies: npm install
+
 Start the development server: npm run dev
+
 Open your browser and navigate to: http://localhost:5173 (example)
 
 Libraries used:
